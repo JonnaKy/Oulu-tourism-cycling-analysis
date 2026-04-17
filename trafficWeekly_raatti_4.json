@@ -1,0 +1,1082 @@
+[
+  {
+    "date": "2022-01-16T22:00:00.000Z",
+    "counts": 1712,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-01-23T22:00:00.000Z",
+    "counts": 4184,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-01-30T22:00:00.000Z",
+    "counts": 3603,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-02-06T22:00:00.000Z",
+    "counts": 4236,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-02-13T22:00:00.000Z",
+    "counts": 4060,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-02-20T22:00:00.000Z",
+    "counts": 4109,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-02-27T22:00:00.000Z",
+    "counts": 4726,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-03-06T22:00:00.000Z",
+    "counts": 3815,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-03-13T22:00:00.000Z",
+    "counts": 5702,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-03-20T22:00:00.000Z",
+    "counts": 5696,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-03-27T21:00:00.000Z",
+    "counts": 5088,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-04-03T21:00:00.000Z",
+    "counts": 4806,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-04-10T21:00:00.000Z",
+    "counts": 5695,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-04-17T21:00:00.000Z",
+    "counts": 9807,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-04-24T21:00:00.000Z",
+    "counts": 10032,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-05-01T21:00:00.000Z",
+    "counts": 7528,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-05-08T21:00:00.000Z",
+    "counts": 9537,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-05-15T21:00:00.000Z",
+    "counts": 11524,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-05-22T21:00:00.000Z",
+    "counts": 11732,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-05-29T21:00:00.000Z",
+    "counts": 11637,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-06-05T21:00:00.000Z",
+    "counts": 13682,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-06-12T21:00:00.000Z",
+    "counts": 11568,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-06-19T21:00:00.000Z",
+    "counts": 13430,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-06-26T21:00:00.000Z",
+    "counts": 16168,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-07-03T21:00:00.000Z",
+    "counts": 13664,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-07-10T21:00:00.000Z",
+    "counts": 11780,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-07-17T21:00:00.000Z",
+    "counts": 12990,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-07-24T21:00:00.000Z",
+    "counts": 4500,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-07-31T21:00:00.000Z",
+    "counts": 7908,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-08-07T21:00:00.000Z",
+    "counts": 10266,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-08-14T21:00:00.000Z",
+    "counts": 13011,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-08-21T21:00:00.000Z",
+    "counts": 12000,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-08-28T21:00:00.000Z",
+    "counts": 11707,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-09-04T21:00:00.000Z",
+    "counts": 11508,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-09-11T21:00:00.000Z",
+    "counts": 9206,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-09-18T21:00:00.000Z",
+    "counts": 10397,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-09-25T21:00:00.000Z",
+    "counts": 9617,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-10-02T21:00:00.000Z",
+    "counts": 8585,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-10-09T21:00:00.000Z",
+    "counts": 8714,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-10-16T21:00:00.000Z",
+    "counts": 8557,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-10-23T21:00:00.000Z",
+    "counts": 5499,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-10-30T22:00:00.000Z",
+    "counts": 7321,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-11-06T22:00:00.000Z",
+    "counts": 6535,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-11-13T22:00:00.000Z",
+    "counts": 6319,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-11-20T22:00:00.000Z",
+    "counts": 5847,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-11-27T22:00:00.000Z",
+    "counts": 5955,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-12-04T22:00:00.000Z",
+    "counts": 4676,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-12-11T22:00:00.000Z",
+    "counts": 4703,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-12-18T22:00:00.000Z",
+    "counts": 3683,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2022-12-25T22:00:00.000Z",
+    "counts": 2409,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-01-01T22:00:00.000Z",
+    "counts": 3099,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-01-08T22:00:00.000Z",
+    "counts": 4358,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-01-15T22:00:00.000Z",
+    "counts": 4739,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-01-22T22:00:00.000Z",
+    "counts": 4853,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-01-29T22:00:00.000Z",
+    "counts": 4891,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-02-05T22:00:00.000Z",
+    "counts": 4909,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-02-12T22:00:00.000Z",
+    "counts": 5129,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-02-19T22:00:00.000Z",
+    "counts": 4644,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-02-26T22:00:00.000Z",
+    "counts": 5801,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-03-05T22:00:00.000Z",
+    "counts": 3435,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-03-12T22:00:00.000Z",
+    "counts": 4939,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-03-19T22:00:00.000Z",
+    "counts": 3985,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-03-26T21:00:00.000Z",
+    "counts": 4242,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-04-02T21:00:00.000Z",
+    "counts": 4361,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-04-09T21:00:00.000Z",
+    "counts": 6055,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-04-16T21:00:00.000Z",
+    "counts": 7155,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-04-23T21:00:00.000Z",
+    "counts": 5949,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-04-30T21:00:00.000Z",
+    "counts": 7765,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-05-07T21:00:00.000Z",
+    "counts": 12120,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-05-14T21:00:00.000Z",
+    "counts": 10692,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-05-21T21:00:00.000Z",
+    "counts": 10972,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-05-28T21:00:00.000Z",
+    "counts": 10270,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-06-04T21:00:00.000Z",
+    "counts": 11786,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-06-11T21:00:00.000Z",
+    "counts": 15187,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-06-18T21:00:00.000Z",
+    "counts": 11054,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-06-25T21:00:00.000Z",
+    "counts": 13280,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-07-02T21:00:00.000Z",
+    "counts": 11187,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-07-09T21:00:00.000Z",
+    "counts": 14335,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-07-16T21:00:00.000Z",
+    "counts": 8762,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-07-23T21:00:00.000Z",
+    "counts": 4456,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-08-06T21:00:00.000Z",
+    "counts": 10269,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-08-13T21:00:00.000Z",
+    "counts": 12549,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-08-20T21:00:00.000Z",
+    "counts": 13634,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-08-27T21:00:00.000Z",
+    "counts": 9945,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-09-03T21:00:00.000Z",
+    "counts": 11775,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-09-10T21:00:00.000Z",
+    "counts": 10824,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-09-17T21:00:00.000Z",
+    "counts": 8883,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-09-24T21:00:00.000Z",
+    "counts": 9368,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-10-01T21:00:00.000Z",
+    "counts": 8206,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-10-08T21:00:00.000Z",
+    "counts": 6233,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-10-15T21:00:00.000Z",
+    "counts": 6853,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-10-22T21:00:00.000Z",
+    "counts": 4961,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-10-29T22:00:00.000Z",
+    "counts": 5369,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-11-05T22:00:00.000Z",
+    "counts": 5400,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-11-12T22:00:00.000Z",
+    "counts": 5806,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-11-19T22:00:00.000Z",
+    "counts": 5139,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-11-26T22:00:00.000Z",
+    "counts": 4608,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-12-03T22:00:00.000Z",
+    "counts": 4308,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-12-10T22:00:00.000Z",
+    "counts": 4947,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-12-17T22:00:00.000Z",
+    "counts": 4019,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-12-24T22:00:00.000Z",
+    "counts": 2302,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2023-12-31T22:00:00.000Z",
+    "counts": 1537,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-01-07T22:00:00.000Z",
+    "counts": 4445,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-01-14T22:00:00.000Z",
+    "counts": 3239,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-01-21T22:00:00.000Z",
+    "counts": 4086,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-01-28T22:00:00.000Z",
+    "counts": 4405,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-02-04T22:00:00.000Z",
+    "counts": 3340,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-02-11T22:00:00.000Z",
+    "counts": 3928,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-02-18T22:00:00.000Z",
+    "counts": 4772,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-02-25T22:00:00.000Z",
+    "counts": 4763,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-03-03T22:00:00.000Z",
+    "counts": 4192,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-03-10T22:00:00.000Z",
+    "counts": 5380,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-03-17T22:00:00.000Z",
+    "counts": 5245,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-03-24T22:00:00.000Z",
+    "counts": 4254,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-03-31T21:00:00.000Z",
+    "counts": 4365,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-04-07T21:00:00.000Z",
+    "counts": 6376,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-04-14T21:00:00.000Z",
+    "counts": 6727,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-04-21T21:00:00.000Z",
+    "counts": 6571,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-04-28T21:00:00.000Z",
+    "counts": 10323,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-05-05T21:00:00.000Z",
+    "counts": 8427,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-05-12T21:00:00.000Z",
+    "counts": 13305,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-05-19T21:00:00.000Z",
+    "counts": 13767,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-05-26T21:00:00.000Z",
+    "counts": 16415,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-06-02T21:00:00.000Z",
+    "counts": 14144,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-06-09T21:00:00.000Z",
+    "counts": 12110,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-06-16T21:00:00.000Z",
+    "counts": 9929,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-06-23T21:00:00.000Z",
+    "counts": 14712,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-06-30T21:00:00.000Z",
+    "counts": 10300,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-07-07T21:00:00.000Z",
+    "counts": 11578,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-07-14T21:00:00.000Z",
+    "counts": 11659,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-07-21T21:00:00.000Z",
+    "counts": 6255,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-07-28T21:00:00.000Z",
+    "counts": 835,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-09-01T21:00:00.000Z",
+    "counts": 12669,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-09-08T21:00:00.000Z",
+    "counts": 10181,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-09-15T21:00:00.000Z",
+    "counts": 10323,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-09-22T21:00:00.000Z",
+    "counts": 7651,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-09-29T21:00:00.000Z",
+    "counts": 8206,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-10-06T21:00:00.000Z",
+    "counts": 6820,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-10-13T21:00:00.000Z",
+    "counts": 7446,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-10-20T21:00:00.000Z",
+    "counts": 6022,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-10-27T22:00:00.000Z",
+    "counts": 6388,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-11-03T22:00:00.000Z",
+    "counts": 6338,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-11-10T22:00:00.000Z",
+    "counts": 6120,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-11-17T22:00:00.000Z",
+    "counts": 5704,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-11-24T22:00:00.000Z",
+    "counts": 5036,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-12-01T22:00:00.000Z",
+    "counts": 4626,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-12-08T22:00:00.000Z",
+    "counts": 5275,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-12-15T22:00:00.000Z",
+    "counts": 3938,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-12-22T22:00:00.000Z",
+    "counts": 1618,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2024-12-29T22:00:00.000Z",
+    "counts": 2472,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-01-05T22:00:00.000Z",
+    "counts": 3717,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-01-12T22:00:00.000Z",
+    "counts": 4735,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-01-19T22:00:00.000Z",
+    "counts": 4312,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-01-26T22:00:00.000Z",
+    "counts": 4714,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-02-02T22:00:00.000Z",
+    "counts": 4497,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-02-09T22:00:00.000Z",
+    "counts": 5088,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-02-16T22:00:00.000Z",
+    "counts": 4697,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-02-23T22:00:00.000Z",
+    "counts": 4519,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-03-02T22:00:00.000Z",
+    "counts": 3996,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-03-09T22:00:00.000Z",
+    "counts": 5313,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-03-16T22:00:00.000Z",
+    "counts": 5935,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-03-23T22:00:00.000Z",
+    "counts": 6509,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-03-30T21:00:00.000Z",
+    "counts": 7460,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-04-06T21:00:00.000Z",
+    "counts": 7034,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-04-13T21:00:00.000Z",
+    "counts": 8867,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-04-20T21:00:00.000Z",
+    "counts": 8400,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-04-27T21:00:00.000Z",
+    "counts": 9136,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-05-04T21:00:00.000Z",
+    "counts": 9238,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-05-11T21:00:00.000Z",
+    "counts": 11581,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-05-18T21:00:00.000Z",
+    "counts": 10243,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-05-25T21:00:00.000Z",
+    "counts": 9807,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-06-01T21:00:00.000Z",
+    "counts": 10385,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-06-08T21:00:00.000Z",
+    "counts": 13337,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-06-15T21:00:00.000Z",
+    "counts": 10131,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-06-22T21:00:00.000Z",
+    "counts": 8987,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-06-29T21:00:00.000Z",
+    "counts": 5627,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-07-13T21:00:00.000Z",
+    "counts": 11500,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-07-20T21:00:00.000Z",
+    "counts": 6411,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-07-27T21:00:00.000Z",
+    "counts": 12457,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-08-03T21:00:00.000Z",
+    "counts": 12183,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-08-10T21:00:00.000Z",
+    "counts": 12228,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-08-17T21:00:00.000Z",
+    "counts": 10846,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-08-24T21:00:00.000Z",
+    "counts": 12186,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-08-31T21:00:00.000Z",
+    "counts": 13215,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-09-07T21:00:00.000Z",
+    "counts": 10784,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-09-14T21:00:00.000Z",
+    "counts": 9023,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-09-21T21:00:00.000Z",
+    "counts": 9646,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-09-28T21:00:00.000Z",
+    "counts": 9803,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-10-05T21:00:00.000Z",
+    "counts": 7858,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-10-12T21:00:00.000Z",
+    "counts": 8309,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-10-19T21:00:00.000Z",
+    "counts": 6096,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-10-26T22:00:00.000Z",
+    "counts": 7689,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-11-02T22:00:00.000Z",
+    "counts": 7519,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-11-09T22:00:00.000Z",
+    "counts": 5714,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-11-16T22:00:00.000Z",
+    "counts": 5961,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-11-23T22:00:00.000Z",
+    "counts": 5677,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-11-30T22:00:00.000Z",
+    "counts": 5325,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-12-07T22:00:00.000Z",
+    "counts": 5348,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-12-14T22:00:00.000Z",
+    "counts": 4818,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-12-21T22:00:00.000Z",
+    "counts": 2285,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2025-12-28T22:00:00.000Z",
+    "counts": 2218,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-01-04T22:00:00.000Z",
+    "counts": 2524,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-01-11T22:00:00.000Z",
+    "counts": 5081,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-01-18T22:00:00.000Z",
+    "counts": 5210,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-01-25T22:00:00.000Z",
+    "counts": 3926,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-02-01T22:00:00.000Z",
+    "counts": 3895,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-02-08T22:00:00.000Z",
+    "counts": 4046,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-02-15T22:00:00.000Z",
+    "counts": 4496,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-02-22T22:00:00.000Z",
+    "counts": 4235,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-03-01T22:00:00.000Z",
+    "counts": 4148,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-03-08T22:00:00.000Z",
+    "counts": 5670,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-03-15T22:00:00.000Z",
+    "counts": 7007,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-03-22T22:00:00.000Z",
+    "counts": 7791,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-03-29T21:00:00.000Z",
+    "counts": 7453,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-04-05T21:00:00.000Z",
+    "counts": 9441,
+    "station_id": "raatti_4"
+  },
+  {
+    "date": "2026-04-12T21:00:00.000Z",
+    "counts": 8250,
+    "station_id": "raatti_4"
+  }
+]

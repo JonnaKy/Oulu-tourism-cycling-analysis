@@ -1,4 +1,5 @@
 import retrieveOuluData
+import json
 """
 Retireves traffic data from relevant example routes (see exampleroute.png) stations
 starting from 01.01.2022.
@@ -6,44 +7,29 @@ Retireves daily, weekly and monthly counts.
 """
 
 if __name__ == "__main__":
-    query = """
-    query GetRelevantStations {
-        raatti_1: ecoCounterSiteData(id: "raatti_1", domain: Oulu_Kapy, step: STEP, begin: "2022-01-01T00:00:00") {
-            date
-            counts
-        }
-        raatti_2: ecoCounterSiteData(id: "raatti_2", domain: Oulu_Kapy, step: STEP, begin: "2019-01-01T00:00:00") {
-            date
-            counts
-        }
-        raatti_3: ecoCounterSiteData(id: "raatti_3", domain: Oulu_Kapy, step: STEP, begin: "2019-01-01T00:00:00") {
-            date
-            counts
-        }
-        raatti_4: ecoCounterSiteData(id: "raatti_4", domain: Oulu_Kapy, step: STEP, begin: "2019-01-01T00:00:00") {
-            date
-            counts
-        }
-        pikisaarensilta_1: ecoCounterSiteData(id: "pikisaarensilta_1", domain: Oulu_Kapy, step: STEP, begin: "2019-01-01T00:00:00") {
-            date
-            counts
-        }
-        pikisaarensilta_2: ecoCounterSiteData(id: "pikisaarensilta_2", domain: Oulu_Kapy, step: STEP, begin: "2019-01-01T00:00:00") {
-            date
-            counts
-        }
-        pikisaarensilta_3: ecoCounterSiteData(id: "pikisaarensilta_3", domain: Oulu_Kapy, step: STEP, begin: "2019-01-01T00:00:00") {
-            date
-            counts
-        }
-        pikisaarensilta_4: ecoCounterSiteData(id: "pikisaarensilta_4", domain: Oulu_Kapy, step: STEP, begin: "2019-01-01T00:00:00") {
-            date
-            counts
-        }
-        }
-    """
-    filenames = ["trafficDaily", "trafficWeekly", "trafficMothly"]
-    i = 0
-    for step in ["day", "week", "month"]:
-        retrieveOuluData.retrieve_data(query.replace("STEP", step), filenames[i])
-        i += 1
+
+    filenames = ["trafficDaily", "trafficWeekly", "trafficMonthly"]
+    stationId = ["raatti_", "pikisaarensilta_"]
+    stationNumber = ["1", "2", "3", "4"]
+
+    time = ["day", "week", "month"]
+
+    for filename, step in zip(filenames, time):
+        for station in stationId:
+            for number in stationNumber:
+                query = """
+                    query GetRelevantStations {
+                        ecoCounterSiteData(id: "STATIONID", domain: Oulu_Kapy, step: STEP, begin: "2022-01-01T00:00:00") {
+                            date
+                            counts
+                        }
+                    }
+                    """
+                query = query.replace("STATIONID", station + number)
+                query = query.replace("STEP", step)
+                result = retrieveOuluData.retrieve_data(query, "ecoCounterSiteData")
+                for record in result:
+                    record["station_id"] = station + number
+                with open(filename + "_" + station + number + ".json", "w") as file:
+                    json.dump(result, file, indent=2)
+                

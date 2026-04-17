@@ -3,11 +3,11 @@ import json
 import config
 
 
-def retrieve_data(query: str,  filename: str, resultname: str = None):
+def retrieve_data(query: str, resultname: str):
     """
     Function to retrives data from oulunliikenne.fi graphQL api
     https://wp.oulunliikenne.fi/avoin-data/pyorailykavely/graphql-rajapinnat/
-    Creates a json file from created data. See above documentation for more information
+    Returns the response from created data. See above documentation for more information
     ...
     resultname: Optional. The top-level field name to extract from the response data.
                 Only needed when the query contains a single, non-alaised field.
@@ -23,7 +23,6 @@ def retrieve_data(query: str,  filename: str, resultname: str = None):
     with urllib.request.urlopen(req) as response:
         result = json.loads(response.read().decode("utf-8"))
 
-    content = result["data"][resultname] if resultname else result["data"]
+    content = result["data"][resultname]
 
-    with open(filename + ".json", "w") as file:
-        json.dump(content, file, indent=2)
+    return content

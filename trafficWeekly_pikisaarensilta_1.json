@@ -1,0 +1,732 @@
+[
+  {
+    "date": "2022-02-13T22:00:00.000Z",
+    "counts": 3186,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-02-20T22:00:00.000Z",
+    "counts": 4744,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-02-27T22:00:00.000Z",
+    "counts": 4689,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-03-06T22:00:00.000Z",
+    "counts": 4506,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-03-13T22:00:00.000Z",
+    "counts": 5044,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-03-20T22:00:00.000Z",
+    "counts": 5342,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-03-27T21:00:00.000Z",
+    "counts": 4673,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-04-03T21:00:00.000Z",
+    "counts": 4206,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-04-10T21:00:00.000Z",
+    "counts": 5518,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-04-17T21:00:00.000Z",
+    "counts": 6222,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-04-24T21:00:00.000Z",
+    "counts": 6226,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-05-01T21:00:00.000Z",
+    "counts": 4266,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-05-08T21:00:00.000Z",
+    "counts": 4672,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-05-15T21:00:00.000Z",
+    "counts": 5385,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-05-22T21:00:00.000Z",
+    "counts": 5897,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-05-29T21:00:00.000Z",
+    "counts": 66,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-06-05T21:00:00.000Z",
+    "counts": 3318,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-06-12T21:00:00.000Z",
+    "counts": 5525,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-06-19T21:00:00.000Z",
+    "counts": 5389,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-06-26T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-07-03T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-07-10T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-07-17T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-07-24T21:00:00.000Z",
+    "counts": 9659,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-07-31T21:00:00.000Z",
+    "counts": 5157,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-08-07T21:00:00.000Z",
+    "counts": 5892,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-08-14T21:00:00.000Z",
+    "counts": 4884,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-08-21T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-08-28T21:00:00.000Z",
+    "counts": 4354,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-09-04T21:00:00.000Z",
+    "counts": 5068,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-09-11T21:00:00.000Z",
+    "counts": 3820,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-09-18T21:00:00.000Z",
+    "counts": 4835,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-09-25T21:00:00.000Z",
+    "counts": 4306,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-10-02T21:00:00.000Z",
+    "counts": 4134,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-10-09T21:00:00.000Z",
+    "counts": 3784,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-10-16T21:00:00.000Z",
+    "counts": 4693,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-10-23T21:00:00.000Z",
+    "counts": 3370,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-10-30T22:00:00.000Z",
+    "counts": 3786,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-11-06T22:00:00.000Z",
+    "counts": 4062,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-11-13T22:00:00.000Z",
+    "counts": 6524,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-11-20T22:00:00.000Z",
+    "counts": 3696,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-11-27T22:00:00.000Z",
+    "counts": 3366,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-12-04T22:00:00.000Z",
+    "counts": 3795,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-12-11T22:00:00.000Z",
+    "counts": 3142,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-12-18T22:00:00.000Z",
+    "counts": 2800,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2022-12-25T22:00:00.000Z",
+    "counts": 3479,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-01-01T22:00:00.000Z",
+    "counts": 3217,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-01-08T22:00:00.000Z",
+    "counts": 2797,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-01-15T22:00:00.000Z",
+    "counts": 3574,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-01-22T22:00:00.000Z",
+    "counts": 4154,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-01-29T22:00:00.000Z",
+    "counts": 3414,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-02-05T22:00:00.000Z",
+    "counts": 3854,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-02-12T22:00:00.000Z",
+    "counts": 4052,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-02-19T22:00:00.000Z",
+    "counts": 4819,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-02-26T22:00:00.000Z",
+    "counts": 4157,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-03-05T22:00:00.000Z",
+    "counts": 3504,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-03-12T22:00:00.000Z",
+    "counts": 4516,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-03-19T22:00:00.000Z",
+    "counts": 4374,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-03-26T21:00:00.000Z",
+    "counts": 4293,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-04-02T21:00:00.000Z",
+    "counts": 5384,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-04-09T21:00:00.000Z",
+    "counts": 5735,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-04-16T21:00:00.000Z",
+    "counts": 5137,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-04-23T21:00:00.000Z",
+    "counts": 4966,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-04-30T21:00:00.000Z",
+    "counts": 6562,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-05-07T21:00:00.000Z",
+    "counts": 5585,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-05-14T21:00:00.000Z",
+    "counts": 5826,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-05-21T21:00:00.000Z",
+    "counts": 4633,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-05-28T21:00:00.000Z",
+    "counts": 4166,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-06-04T21:00:00.000Z",
+    "counts": 6373,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-06-11T21:00:00.000Z",
+    "counts": 9018,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-06-18T21:00:00.000Z",
+    "counts": 6053,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-06-25T21:00:00.000Z",
+    "counts": 6690,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-07-02T21:00:00.000Z",
+    "counts": 1916,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-07-09T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-07-16T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-07-23T21:00:00.000Z",
+    "counts": 37639,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-07-30T21:00:00.000Z",
+    "counts": 7087,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-08-06T21:00:00.000Z",
+    "counts": 6858,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-08-13T21:00:00.000Z",
+    "counts": 9307,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-08-20T21:00:00.000Z",
+    "counts": 6291,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-08-27T21:00:00.000Z",
+    "counts": 5088,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-09-03T21:00:00.000Z",
+    "counts": 5055,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-09-10T21:00:00.000Z",
+    "counts": 4220,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-09-17T21:00:00.000Z",
+    "counts": 3947,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-09-24T21:00:00.000Z",
+    "counts": 3936,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-10-01T21:00:00.000Z",
+    "counts": 3710,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-10-08T21:00:00.000Z",
+    "counts": 2907,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-10-15T21:00:00.000Z",
+    "counts": 4520,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-10-22T21:00:00.000Z",
+    "counts": 3502,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-10-29T22:00:00.000Z",
+    "counts": 3274,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-11-05T22:00:00.000Z",
+    "counts": 3746,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-11-12T22:00:00.000Z",
+    "counts": 3850,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-11-19T22:00:00.000Z",
+    "counts": 3165,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-11-26T22:00:00.000Z",
+    "counts": 3297,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-12-03T22:00:00.000Z",
+    "counts": 2776,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-12-10T22:00:00.000Z",
+    "counts": 2730,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-12-17T22:00:00.000Z",
+    "counts": 1391,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-12-24T22:00:00.000Z",
+    "counts": 3793,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2023-12-31T22:00:00.000Z",
+    "counts": 1830,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-01-07T22:00:00.000Z",
+    "counts": 2823,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-01-14T22:00:00.000Z",
+    "counts": 2257,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-01-21T22:00:00.000Z",
+    "counts": 3195,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-01-28T22:00:00.000Z",
+    "counts": 2507,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-02-04T22:00:00.000Z",
+    "counts": 2913,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-02-11T22:00:00.000Z",
+    "counts": 3456,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-02-18T22:00:00.000Z",
+    "counts": 2663,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-02-25T22:00:00.000Z",
+    "counts": 3224,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-03-03T22:00:00.000Z",
+    "counts": 3501,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-03-10T22:00:00.000Z",
+    "counts": 4174,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-03-17T22:00:00.000Z",
+    "counts": 3967,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-03-24T22:00:00.000Z",
+    "counts": 3389,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-03-31T21:00:00.000Z",
+    "counts": 3754,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-04-07T21:00:00.000Z",
+    "counts": 5254,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-04-14T21:00:00.000Z",
+    "counts": 4271,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-04-21T21:00:00.000Z",
+    "counts": 4448,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-04-28T21:00:00.000Z",
+    "counts": 7841,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-05-05T21:00:00.000Z",
+    "counts": 4301,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-05-12T21:00:00.000Z",
+    "counts": 6033,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-05-19T21:00:00.000Z",
+    "counts": 6004,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-05-26T21:00:00.000Z",
+    "counts": 7079,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-06-02T21:00:00.000Z",
+    "counts": 6811,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-06-09T21:00:00.000Z",
+    "counts": 5908,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-06-16T21:00:00.000Z",
+    "counts": 4946,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-06-23T21:00:00.000Z",
+    "counts": 6589,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-06-30T21:00:00.000Z",
+    "counts": 5275,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-07-07T21:00:00.000Z",
+    "counts": 8719,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-07-14T21:00:00.000Z",
+    "counts": 7837,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-07-21T21:00:00.000Z",
+    "counts": 12708,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-07-28T21:00:00.000Z",
+    "counts": 5274,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-08-04T21:00:00.000Z",
+    "counts": 5935,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-08-11T21:00:00.000Z",
+    "counts": 9439,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-08-18T21:00:00.000Z",
+    "counts": 4572,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2024-08-25T21:00:00.000Z",
+    "counts": 1725,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2025-11-23T22:00:00.000Z",
+    "counts": 3079,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2025-11-30T22:00:00.000Z",
+    "counts": 2708,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2025-12-07T22:00:00.000Z",
+    "counts": 2941,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2025-12-14T22:00:00.000Z",
+    "counts": 2826,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2025-12-21T22:00:00.000Z",
+    "counts": 3649,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2025-12-28T22:00:00.000Z",
+    "counts": 2631,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2026-01-04T22:00:00.000Z",
+    "counts": 1984,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2026-01-11T22:00:00.000Z",
+    "counts": 2929,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2026-01-18T22:00:00.000Z",
+    "counts": 2830,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2026-01-25T22:00:00.000Z",
+    "counts": 2571,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2026-02-01T22:00:00.000Z",
+    "counts": 1,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2026-03-01T22:00:00.000Z",
+    "counts": 1479,
+    "station_id": "pikisaarensilta_1"
+  },
+  {
+    "date": "2026-04-12T21:00:00.000Z",
+    "counts": 0,
+    "station_id": "pikisaarensilta_1"
+  }
+]

@@ -1,0 +1,1100 @@
+[
+  {
+    "siteId": "100025213",
+    "name": "Kempele/Asemantie",
+    "userType": 7,
+    "channels": [
+      {
+        "siteId": "101025213",
+        "name": "JK_Keskustaan",
+        "lat": 64.91062,
+        "lon": 25.514536
+      },
+      {
+        "siteId": "102025213",
+        "name": "JK_Keskustasta",
+        "lat": 64.91062,
+        "lon": 25.514536
+      },
+      {
+        "siteId": "103025213",
+        "name": "PP_Keskustaan",
+        "lat": 64.91062,
+        "lon": 25.514536
+      },
+      {
+        "siteId": "104025213",
+        "name": "PP_Keskustasta",
+        "lat": 64.91062,
+        "lon": 25.514536
+      }
+    ]
+  },
+  {
+    "siteId": "100026468",
+    "name": "Koiteli",
+    "userType": 1,
+    "channels": [
+      {
+        "siteId": "101026468",
+        "name": "Channel 1 IN",
+        "lat": 65.09729160105616,
+        "lon": 25.81736303323303
+      },
+      {
+        "siteId": "102026468",
+        "name": "Channel 2 OUT",
+        "lat": 65.09729160105616,
+        "lon": 25.81736303323303
+      }
+    ]
+  },
+  {
+    "siteId": "patosilta",
+    "name": "Patosilta",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "patosilta_1",
+        "name": "JK_IN",
+        "lat": 65.02132,
+        "lon": 25.483478
+      },
+      {
+        "siteId": "patosilta_2",
+        "name": "JK_OUT",
+        "lat": 65.02132,
+        "lon": 25.483478
+      },
+      {
+        "siteId": "patosilta_3",
+        "name": "PP_IN",
+        "lat": 65.02132,
+        "lon": 25.483478
+      },
+      {
+        "siteId": "patosilta_4",
+        "name": "PP_OUT",
+        "lat": 65.02132,
+        "lon": 25.483478
+      }
+    ]
+  },
+  {
+    "siteId": "erkkolansilta",
+    "name": "Erkkolan silta",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "erkkolansilta_1",
+        "name": "JK_IN",
+        "lat": 65.019,
+        "lon": 25.534323
+      },
+      {
+        "siteId": "erkkolansilta_2",
+        "name": "JK_OUT",
+        "lat": 65.019,
+        "lon": 25.534323
+      },
+      {
+        "siteId": "erkkolansilta_3",
+        "name": "PP_IN",
+        "lat": 65.019,
+        "lon": 25.534323
+      },
+      {
+        "siteId": "erkkolansilta_4",
+        "name": "PP_OUT",
+        "lat": 65.019,
+        "lon": 25.534323
+      }
+    ]
+  },
+  {
+    "siteId": "raatti",
+    "name": "Raatti",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "raatti_1",
+        "name": "JK_IN",
+        "lat": 65.018652,
+        "lon": 25.464398
+      },
+      {
+        "siteId": "raatti_2",
+        "name": "JK_OUT",
+        "lat": 65.018652,
+        "lon": 25.464398
+      },
+      {
+        "siteId": "raatti_3",
+        "name": "PP_IN",
+        "lat": 65.018652,
+        "lon": 25.464398
+      },
+      {
+        "siteId": "raatti_4",
+        "name": "PP_OUT",
+        "lat": 65.018652,
+        "lon": 25.464398
+      }
+    ]
+  },
+  {
+    "siteId": "maikkulan-baana",
+    "name": "Maikkulan baana",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "maikkulan-baana_1",
+        "name": "JK_IN",
+        "lat": 65.006129,
+        "lon": 25.495483
+      },
+      {
+        "siteId": "maikkulan-baana_2",
+        "name": "JK_OUT",
+        "lat": 65.006129,
+        "lon": 25.495483
+      },
+      {
+        "siteId": "maikkulan-baana_3",
+        "name": "PP_IN",
+        "lat": 65.006129,
+        "lon": 25.495483
+      },
+      {
+        "siteId": "maikkulan-baana_4",
+        "name": "PP_OUT",
+        "lat": 65.006129,
+        "lon": 25.495483
+      }
+    ]
+  },
+  {
+    "siteId": "poikkimaantie",
+    "name": "Poikkimaantie",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "poikkimaantie_1",
+        "name": "JK_IN",
+        "lat": 64.999391,
+        "lon": 25.560913
+      },
+      {
+        "siteId": "poikkimaantie_2",
+        "name": "JK_OUT",
+        "lat": 64.999391,
+        "lon": 25.560913
+      },
+      {
+        "siteId": "poikkimaantie_3",
+        "name": "PP_IN",
+        "lat": 64.999391,
+        "lon": 25.560913
+      },
+      {
+        "siteId": "poikkimaantie_4",
+        "name": "PP_OUT",
+        "lat": 64.999391,
+        "lon": 25.560913
+      }
+    ]
+  },
+  {
+    "siteId": "karjasilta",
+    "name": "Karjasilta",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "karjasilta_1",
+        "name": "JK_IN",
+        "lat": 65.001842,
+        "lon": 25.480784
+      },
+      {
+        "siteId": "karjasilta_2",
+        "name": "JK_OUT",
+        "lat": 65.001842,
+        "lon": 25.480784
+      },
+      {
+        "siteId": "karjasilta_3",
+        "name": "PP_IN",
+        "lat": 65.001842,
+        "lon": 25.480784
+      },
+      {
+        "siteId": "karjasilta_4",
+        "name": "PP_OUT",
+        "lat": 65.001842,
+        "lon": 25.480784
+      }
+    ]
+  },
+  {
+    "siteId": "hollihaka",
+    "name": "Hollihaka",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "hollihaka_1",
+        "name": "JK_IN",
+        "lat": 65.010398,
+        "lon": 25.455607
+      },
+      {
+        "siteId": "hollihaka_2",
+        "name": "JK_OUT",
+        "lat": 65.010398,
+        "lon": 25.455607
+      },
+      {
+        "siteId": "hollihaka_3",
+        "name": "PP_IN",
+        "lat": 65.010398,
+        "lon": 25.455607
+      },
+      {
+        "siteId": "hollihaka_4",
+        "name": "PP_OUT",
+        "lat": 65.010398,
+        "lon": 25.455607
+      }
+    ]
+  },
+  {
+    "siteId": "pikisaarensilta",
+    "name": "Pikisaarensilta",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "pikisaarensilta_1",
+        "name": "JK_IN",
+        "lat": 65.015177,
+        "lon": 25.461951
+      },
+      {
+        "siteId": "pikisaarensilta_2",
+        "name": "JK_OUT",
+        "lat": 65.015177,
+        "lon": 25.461951
+      },
+      {
+        "siteId": "pikisaarensilta_3",
+        "name": "PP_IN",
+        "lat": 65.015177,
+        "lon": 25.461951
+      },
+      {
+        "siteId": "pikisaarensilta_4",
+        "name": "PP_OUT",
+        "lat": 65.015177,
+        "lon": 25.461951
+      }
+    ]
+  },
+  {
+    "siteId": "etelainen-alikulku",
+    "name": "Etel\u00e4inen alikulku",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "etelainen-alikulku_1",
+        "name": "JK_IN",
+        "lat": 65.007616,
+        "lon": 25.480427
+      },
+      {
+        "siteId": "etelainen-alikulku_2",
+        "name": "JK_OUT",
+        "lat": 65.007616,
+        "lon": 25.480427
+      },
+      {
+        "siteId": "etelainen-alikulku_3",
+        "name": "PP_IN",
+        "lat": 65.007616,
+        "lon": 25.480427
+      },
+      {
+        "siteId": "etelainen-alikulku_4",
+        "name": "PP_OUT",
+        "lat": 65.007616,
+        "lon": 25.480427
+      }
+    ]
+  },
+  {
+    "siteId": "limingantie",
+    "name": "Limingantie",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "limingantie_1",
+        "name": "JK_IN",
+        "lat": 64.995718,
+        "lon": 25.464124
+      },
+      {
+        "siteId": "limingantie_2",
+        "name": "JK_OUT",
+        "lat": 64.995718,
+        "lon": 25.464124
+      },
+      {
+        "siteId": "limingantie_3",
+        "name": "PP_IN",
+        "lat": 64.995718,
+        "lon": 25.464124
+      },
+      {
+        "siteId": "limingantie_4",
+        "name": "PP_OUT",
+        "lat": 64.995718,
+        "lon": 25.464124
+      }
+    ]
+  },
+  {
+    "siteId": "rautasilta",
+    "name": "Rautasilta",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "rautasilta_1",
+        "name": "JK_IN",
+        "lat": 65.021535,
+        "lon": 25.496036
+      },
+      {
+        "siteId": "rautasilta_2",
+        "name": "JK_OUT",
+        "lat": 65.021535,
+        "lon": 25.496036
+      },
+      {
+        "siteId": "rautasilta_3",
+        "name": "PP_IN",
+        "lat": 65.021535,
+        "lon": 25.496036
+      },
+      {
+        "siteId": "rautasilta_4",
+        "name": "PP_OUT",
+        "lat": 65.021535,
+        "lon": 25.496036
+      }
+    ]
+  },
+  {
+    "siteId": "LI03LV",
+    "name": "Liminka/Ouluntie (mt847)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "LI03LV_G2_G1",
+        "name": "G2_G1",
+        "lat": 64.863528,
+        "lon": 25.501806
+      },
+      {
+        "siteId": "LI03LV_G31_G30",
+        "name": "G31_G30",
+        "lat": 64.863528,
+        "lon": 25.501806
+      }
+    ]
+  },
+  {
+    "siteId": "OULU180",
+    "name": "\u00c4im\u00e4rautio (Limingantie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU180_b31_2_b30_2:c31_2_c30_2",
+        "name": "b31_2_b30_2:c31_2_c30_2",
+        "lat": 64.985767,
+        "lon": 25.474621
+      },
+      {
+        "siteId": "OULU180_b30_2_b31_2:c30_2_c31_2",
+        "name": "b30_2_b31_2:c30_2_c31_2",
+        "lat": 64.985767,
+        "lon": 25.474621
+      }
+    ]
+  },
+  {
+    "siteId": "OULU099",
+    "name": "Myllytulli (Tulliv\u00e4yl\u00e4)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU099_PP17_18",
+        "name": "PP17_18",
+        "lat": 65.019203,
+        "lon": 25.493891
+      },
+      {
+        "siteId": "OULU099_PP18_17",
+        "name": "PP18_17",
+        "lat": 65.019203,
+        "lon": 25.493891
+      }
+    ]
+  },
+  {
+    "siteId": "OULU192",
+    "name": "Kynsilehto (Parkkisenkankaantie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU192_pp18_17",
+        "name": "pp18_17",
+        "lat": 65.030845,
+        "lon": 25.55401
+      },
+      {
+        "siteId": "OULU192_pp20_19",
+        "name": "pp20_19",
+        "lat": 65.030845,
+        "lon": 25.55401
+      }
+    ]
+  },
+  {
+    "siteId": "OULU67",
+    "name": "Taka-Ly\u00f6tty (Leevi Madetojan katu l\u00e4nsipuoli)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU67_pp13_14",
+        "name": "pp13_14",
+        "lat": 65.002409,
+        "lon": 25.479601
+      },
+      {
+        "siteId": "OULU67_pp15_16",
+        "name": "pp15_16",
+        "lat": 65.002409,
+        "lon": 25.479601
+      }
+    ]
+  },
+  {
+    "siteId": "OULU193",
+    "name": "Rusko (Raitotie/Konetie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU193_PPA_1",
+        "name": "PPA_1",
+        "lat": 65.041885,
+        "lon": 25.542825
+      },
+      {
+        "siteId": "OULU193_PPA_2",
+        "name": "PPA_2",
+        "lat": 65.041885,
+        "lon": 25.542825
+      }
+    ]
+  },
+  {
+    "siteId": "OULU196",
+    "name": "Rusko (Raitotie/Kiilletie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU196_c30_c31",
+        "name": "c30_c31",
+        "lat": 65.047079,
+        "lon": 25.534079
+      },
+      {
+        "siteId": "OULU196_d30_d31",
+        "name": "d30_d31",
+        "lat": 65.047079,
+        "lon": 25.534079
+      }
+    ]
+  },
+  {
+    "siteId": "OULU133",
+    "name": "H\u00f6yhty\u00e4 (Lintulammentie/Latokartanontie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU133_pp13_14",
+        "name": "A31_2_A30_2_IN",
+        "lat": 64.996619,
+        "lon": 25.48526
+      },
+      {
+        "siteId": "OULU133_pp15_16",
+        "name": "A31_1_A30_1_OUT",
+        "lat": 64.996619,
+        "lon": 25.48526
+      }
+    ]
+  },
+  {
+    "siteId": "OULU108",
+    "name": "V\u00e4livainio (Sorvarintie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU108_PP41_42",
+        "name": "PP41_42",
+        "lat": 65.029674,
+        "lon": 25.478412
+      },
+      {
+        "siteId": "OULU108_PP42_41",
+        "name": "PP42_41",
+        "lat": 65.029674,
+        "lon": 25.478412
+      }
+    ]
+  },
+  {
+    "siteId": "OULU176",
+    "name": "Kuivasj\u00e4rvi (Raitotie/Kalikkatie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU176_PP_A29_A30__A",
+        "name": "PP_A29_A30__A",
+        "lat": 65.067715,
+        "lon": 25.494297
+      },
+      {
+        "siteId": "OULU176_PP_B29_B30__B",
+        "name": "PP_B29_B30__B",
+        "lat": 65.067715,
+        "lon": 25.494297
+      }
+    ]
+  },
+  {
+    "siteId": "OULU135",
+    "name": "H\u00f6yhty\u00e4 (Lintulammentie/Sorsatie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU135_pp13_14",
+        "name": "B31_2_B30_2_IN",
+        "lat": 64.992932,
+        "lon": 25.489508
+      },
+      {
+        "siteId": "OULU135_pp15_16",
+        "name": "B31_1_B30_1_OUT",
+        "lat": 64.992932,
+        "lon": 25.489508
+      }
+    ]
+  },
+  {
+    "siteId": "OULU191",
+    "name": "Myllyoja (Vaalantie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU191_PPA_2",
+        "name": "PPA_2",
+        "lat": 65.020244,
+        "lon": 25.553529
+      },
+      {
+        "siteId": "OULU191_PPA_1",
+        "name": "PPA_1",
+        "lat": 65.020244,
+        "lon": 25.553529
+      }
+    ]
+  },
+  {
+    "siteId": "OULU175",
+    "name": "Kuivasj\u00e4rvi (Raitotie/P\u00f6ll\u00f6ntie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU175_pp_a29_a30",
+        "name": "pp_a29_a30",
+        "lat": 65.065897,
+        "lon": 25.503838
+      },
+      {
+        "siteId": "OULU175_pp_b29_b30",
+        "name": "pp_b29_b30",
+        "lat": 65.065897,
+        "lon": 25.503838
+      }
+    ]
+  },
+  {
+    "siteId": "OULU139",
+    "name": "Kaakkuri (Kaakkurinpolku)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU139_PP_P11_P12",
+        "name": "PP_P11_P12",
+        "lat": 64.95853,
+        "lon": 25.529357
+      },
+      {
+        "siteId": "OULU139_PP_P9_P10",
+        "name": "PP_P9_P10",
+        "lat": 64.95853,
+        "lon": 25.529357
+      }
+    ]
+  },
+  {
+    "siteId": "KE13LV",
+    "name": "Kempele/Zatelliitti (Komeetantie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "KE13LV_PP3_PP4",
+        "name": "PP3_PP4",
+        "lat": 64.918603,
+        "lon": 25.540077
+      },
+      {
+        "siteId": "KE13LV_PP4_PP3",
+        "name": "PP4_PP3",
+        "lat": 64.918603,
+        "lon": 25.540077
+      }
+    ]
+  },
+  {
+    "siteId": "KI001",
+    "name": "Laivakankaantie (vt 20)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "KI001_FG20_21",
+        "name": "FG20_21",
+        "lat": 65.084341,
+        "lon": 25.672024
+      },
+      {
+        "siteId": "KI001_FG21_20",
+        "name": "FG21_20",
+        "lat": 65.084341,
+        "lon": 25.672024
+      }
+    ]
+  },
+  {
+    "siteId": "OULU174",
+    "name": "Kuivasj\u00e4rvi (Raitotie/Alakyl\u00e4ntie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU174_PP1_PP2",
+        "name": "PP1_PP2",
+        "lat": 65.062924,
+        "lon": 25.509751
+      },
+      {
+        "siteId": "OULU174_PP2_PP1",
+        "name": "PP2_PP1",
+        "lat": 65.062924,
+        "lon": 25.509751
+      },
+      {
+        "siteId": "OULU174_PP5_PP6",
+        "name": "PP5_PP6",
+        "lat": 65.062701,
+        "lon": 25.513529
+      },
+      {
+        "siteId": "OULU174_PP6_PP5",
+        "name": "PP6_PP5",
+        "lat": 65.062701,
+        "lon": 25.513529
+      }
+    ]
+  },
+  {
+    "siteId": "OULU143",
+    "name": "Oulunlahti (Limingantie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU143_PILOT_NORM_IN:PP_Demand_H1_IN",
+        "name": "PILOT_NORM_IN:PP_Demand_H1_IN",
+        "lat": 64.974235,
+        "lon": 25.487878
+      },
+      {
+        "siteId": "OULU143_PILOT_NORM_OUT:PP_Demand_H1",
+        "name": "PILOT_NORM_OUT:PP_Demand_H1",
+        "lat": 64.974235,
+        "lon": 25.487878
+      }
+    ]
+  },
+  {
+    "siteId": "KE007",
+    "name": "Kempele/Paituri (mt847)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "KE007_PP_Demand_HA",
+        "name": "PP_Demand_HA",
+        "lat": 64.928351,
+        "lon": 25.511249
+      },
+      {
+        "siteId": "KE007_PP_Demand_HB",
+        "name": "PP_Demand_HB",
+        "lat": 64.928351,
+        "lon": 25.511249
+      }
+    ]
+  },
+  {
+    "siteId": "OULU197",
+    "name": "Saarela (Vaalantie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU197_A14_1_A15_1",
+        "name": "A14_1_A15_1",
+        "lat": 65.001728,
+        "lon": 25.585062
+      },
+      {
+        "siteId": "OULU197_A14_2_A15_2",
+        "name": "A14_2_A15_2",
+        "lat": 65.001728,
+        "lon": 25.585062
+      }
+    ]
+  },
+  {
+    "siteId": "OULU059",
+    "name": "Kastelli (Oulunsuuntie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU059_B29_1_B30_1:A29_1_A30_1",
+        "name": "B29_1_B30_1:A29_1_A30_1",
+        "lat": 65.006614,
+        "lon": 25.528525
+      },
+      {
+        "siteId": "OULU059_B30_1_B29_1:A30_1_A29_1",
+        "name": "B30_1_B29_1:A30_1_A29_1",
+        "lat": 65.006614,
+        "lon": 25.528525
+      }
+    ]
+  },
+  {
+    "siteId": "OULU115",
+    "name": "Lipporannantie",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU115_A29_A30",
+        "name": "A29_A30",
+        "lat": 65.030583,
+        "lon": 25.449576
+      },
+      {
+        "siteId": "OULU115_B19_B20",
+        "name": "B19_B20",
+        "lat": 65.030583,
+        "lon": 25.449576
+      }
+    ]
+  },
+  {
+    "siteId": "OULU170",
+    "name": "Toppila (Koskelantie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU170_PP9_29_30:PP14_29_30",
+        "name": "PP9_29_30:PP14_29_30",
+        "lat": 65.038313,
+        "lon": 25.442646
+      },
+      {
+        "siteId": "OULU170_PP9_30_29:PP14_30_29",
+        "name": "PP9_30_29:PP14_30_29",
+        "lat": 65.038313,
+        "lon": 25.442646
+      }
+    ]
+  },
+  {
+    "siteId": "OULU134",
+    "name": "Karjasilta (Joutsentie/Paljetie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU134_B30_2_B29_2_IN",
+        "name": "B30_2_B29_2_IN",
+        "lat": 64.998889,
+        "lon": 25.4775
+      },
+      {
+        "siteId": "OULU134_B30_1_B29_1_OUT",
+        "name": "B30_1_B29_1_OUT",
+        "lat": 64.998889,
+        "lon": 25.4775
+      }
+    ]
+  },
+  {
+    "siteId": "OULU034",
+    "name": "Limingantulli (Limingantie/Kempeleentie)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "OULU034_A_30_2_A_30_1",
+        "name": "A_30_2_A_30_1",
+        "lat": 65.00025,
+        "lon": 25.4635
+      },
+      {
+        "siteId": "OULU034_A_30_1_A_30_2",
+        "name": "A_30_1_A_30_2",
+        "lat": 65.00025,
+        "lon": 25.4635
+      }
+    ]
+  },
+  {
+    "siteId": "KI003",
+    "name": "Ylikiimingintie (vt20)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "KI003_H29_H30",
+        "name": "H29_H30",
+        "lat": 65.063742,
+        "lon": 25.635628
+      },
+      {
+        "siteId": "KI003_G29_G30",
+        "name": "G29_G30",
+        "lat": 65.063742,
+        "lon": 25.635628
+      }
+    ]
+  },
+  {
+    "siteId": "KI002",
+    "name": "J\u00e4\u00e4lintie (vt 20)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "KI002_PP_FG15",
+        "name": "PP_FG15",
+        "lat": 65.094025,
+        "lon": 25.682118
+      },
+      {
+        "siteId": "KI002_PP_GF15",
+        "name": "PP_GF15",
+        "lat": 65.094025,
+        "lon": 25.682118
+      }
+    ]
+  },
+  {
+    "siteId": "300062134",
+    "name": "Herukka (mt 847)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "300062134_0",
+        "name": "PP_IN",
+        "lat": 65.107694,
+        "lon": 25.390413
+      },
+      {
+        "siteId": "300062134_1",
+        "name": "PP_OUT",
+        "lat": 65.107694,
+        "lon": 25.390413
+      },
+      {
+        "siteId": "300062134_2",
+        "name": "JK_IN",
+        "lat": 65.107694,
+        "lon": 25.390413
+      },
+      {
+        "siteId": "300062134_3",
+        "name": "JK_OUT",
+        "lat": 65.107694,
+        "lon": 25.390413
+      }
+    ]
+  },
+  {
+    "siteId": "300044495",
+    "name": "Kiiminki (vt 20 / mt 848)",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "300044495_0",
+        "name": "PP_IN",
+        "lat": 65.127728,
+        "lon": 25.774734
+      },
+      {
+        "siteId": "300044495_1",
+        "name": "PP_OUT",
+        "lat": 65.127728,
+        "lon": 25.774734
+      },
+      {
+        "siteId": "300044495_2",
+        "name": "JK_IN",
+        "lat": 65.127728,
+        "lon": 25.774734
+      },
+      {
+        "siteId": "300044495_3",
+        "name": "JK_OUT",
+        "lat": 65.127728,
+        "lon": 25.774734
+      }
+    ]
+  },
+  {
+    "siteId": "300044496",
+    "name": "Haukipudas/Kiiminkijoki (mt 847)",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "300044496_0",
+        "name": "PP_IN",
+        "lat": 65.178379,
+        "lon": 25.355472
+      },
+      {
+        "siteId": "300044496_1",
+        "name": "PP_OUT",
+        "lat": 65.178379,
+        "lon": 25.355472
+      },
+      {
+        "siteId": "300044496_2",
+        "name": "JK_IN",
+        "lat": 65.178379,
+        "lon": 25.355472
+      },
+      {
+        "siteId": "300044496_3",
+        "name": "JK_OUT",
+        "lat": 65.178379,
+        "lon": 25.355472
+      }
+    ]
+  },
+  {
+    "siteId": "300044497",
+    "name": "Kuusamontie/Laanila (vt 20)",
+    "userType": 12,
+    "channels": [
+      {
+        "siteId": "300044497_0",
+        "name": "PP_IN",
+        "lat": 65.026569,
+        "lon": 25.51208
+      },
+      {
+        "siteId": "300044497_1",
+        "name": "PP_OUT",
+        "lat": 65.026569,
+        "lon": 25.51208
+      },
+      {
+        "siteId": "300044497_2",
+        "name": "JK_IN",
+        "lat": 65.026569,
+        "lon": 25.51208
+      },
+      {
+        "siteId": "300044497_3",
+        "name": "JK_OUT",
+        "lat": 65.026569,
+        "lon": 25.51208
+      }
+    ]
+  },
+  {
+    "siteId": "300044484",
+    "name": "Lentokent\u00e4ntie (mt 815)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "300044484_0",
+        "name": "PP_IN",
+        "lat": 64.950887,
+        "lon": 25.492349
+      },
+      {
+        "siteId": "300044484_1",
+        "name": "PP_OUT",
+        "lat": 64.950887,
+        "lon": 25.492349
+      }
+    ]
+  },
+  {
+    "siteId": "300044494",
+    "name": "Hakamaa (mt 847)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "300044494_0",
+        "name": "PP_IN",
+        "lat": 64.939625,
+        "lon": 25.51565
+      },
+      {
+        "siteId": "300044494_1",
+        "name": "PP_OUT",
+        "lat": 64.939625,
+        "lon": 25.51565
+      }
+    ]
+  },
+  {
+    "siteId": "300044488",
+    "name": "Kuusamontie/Korvenkyl\u00e4 (vt 20)",
+    "userType": 2,
+    "channels": [
+      {
+        "siteId": "300044488_0",
+        "name": "PP_IN",
+        "lat": 65.062827,
+        "lon": 25.633072
+      },
+      {
+        "siteId": "300044488_1",
+        "name": "PP_OUT",
+        "lat": 65.062827,
+        "lon": 25.633072
+      }
+    ]
+  },
+  null
+]
